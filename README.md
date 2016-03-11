@@ -1,5 +1,6 @@
 This is an example of a simple workflow for generating a site with [Hugo](https://gohugo.io/) and post-processing
-it with [Gulp](http://gulpjs.com/) tasks. I plan to have a blog post up soon that goes through the project step-by-step.
+it with [Gulp](http://gulpjs.com/) tasks. I have a [blog post](http://holtcode.blogspot.com.au/2016/03/static-website-generation-with-hugo-and.html)
+up that goes through the project step-by-step.
 
 Hugo is a fast and modern static website engine, it takes page templates, data, and content, and generates a set of static pages
 that can be served on a simple webserver such as S3.
