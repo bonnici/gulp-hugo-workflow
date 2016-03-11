@@ -1,0 +1,5 @@
+.idea
+node_modules
+hugo-generated
+gulp-dist
+notes.txt

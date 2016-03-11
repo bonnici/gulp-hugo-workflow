@@ -1,0 +1,2 @@
+let test = 'testing';
+setTimeout(() => console.log(test), 1000);
